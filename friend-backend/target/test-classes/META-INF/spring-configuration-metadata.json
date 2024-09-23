@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "oss",
+      "type": "sangeng.SuperApplication",
+      "sourceType": "sangeng.SuperApplication"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
